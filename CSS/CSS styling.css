@@ -1,0 +1,74 @@
+h2{
+    color:rgb(91, 186, 234)
+}
+h2{
+    text-decoration: wavy;
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}
+body{
+    background-color: antiquewhite;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: calc();
+}
+ul{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+ion-icon{
+    font-size: 70px;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px
+}
+table{
+    background-color:gold;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration: double;}
+#para1{
+    color: rgb(35, 223, 223);
+}
+form{
+    width: fit-content;
+    height: auto;
+    padding: 15px;
+    background-color:greenyellow;
+    font-style: italic;
+    border-style: solid;
+    font-weight: 900;
+}
+input[type=button] {
+    font-style: italic;
+    color: black;
+    background-color: white;
+    padding: 5px;
+}
+#box1{
+    width: 600px;
+    height: 80px;
+}
+div{
+    text-align: center;
+}
+Footer{
+    position:fixed;
+    bottom:0;
+    right:0;
+}
